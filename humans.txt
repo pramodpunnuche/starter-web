@@ -1,6 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
-Hello team i am devops training
+Hello team i am in devops training
+GIT rebase is going on
 
 
 # TEAM
