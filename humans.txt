@@ -1,5 +1,7 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
+Hello team i am devops training
+
 
 # TEAM
 
